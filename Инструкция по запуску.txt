@@ -3,3 +3,5 @@ cd terp
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
+
+Листинг кода не стал дублировать, т.к. в файлах сайта он есть.
